@@ -320,9 +320,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |
+      AGENDA-
     actions:
       - label: Get started
         url: /
