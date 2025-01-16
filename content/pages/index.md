@@ -163,6 +163,8 @@ sections:
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock
+      - altText: Contentful logo
+        type: ImageBlock
       - type: ImageBlock
         url: /images/IMG_9158.jpeg
         altText: Image alt text placeholder
@@ -170,8 +172,6 @@ sections:
         styles:
           self:
             borderRadius: medium
-      - altText: Contentful logo
-        type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
         type: ImageBlock
