@@ -285,7 +285,7 @@ sections:
       text: Social Media Handle
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: follow us on valorcon_mun
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
