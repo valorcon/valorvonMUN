@@ -233,7 +233,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Gen
+      text: what is model united nations?
       color: text-dark
       styles:
         self:
