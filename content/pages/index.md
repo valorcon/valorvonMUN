@@ -186,7 +186,10 @@ sections:
       self:
         justifyContent: flex-end
         padding:
-          - pt-2
+          - pt-1
+          - pl-1
+          - pb-1
+          - pr-1
       subtitle:
         textAlign: center
     type: ImageGallerySection
