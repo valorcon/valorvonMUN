@@ -172,8 +172,7 @@ sections:
         styles:
           self:
             borderRadius: medium
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
+      - altText: Sanity logo
         type: ImageBlock
       - altText: Rangle logo
         type: ImageBlock
