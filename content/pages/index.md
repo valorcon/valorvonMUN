@@ -85,7 +85,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: ''
         subtitle: 'Expert Guest Speakers:'
         text: >
           Listen to speeches and engage with diplomats, political leaders, and
