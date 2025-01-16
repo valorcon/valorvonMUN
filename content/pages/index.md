@@ -240,11 +240,18 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: video credits-fnsamband
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Model United Nations (MUN) is a **simulation of the United Nations** where
+      participants, known as delegates, represent countries or organizations to
+      debate and resolve global issues. It involves research, public speaking,
+      diplomacy, and negotiation to draft resolutions addressing real-world
+      challenges. MUN fosters skills like critical thinking, teamwork, and
+      international awareness.
+
+
+
+
+      .
     actions: []
     media:
       title: Title of the video
