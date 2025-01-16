@@ -11,7 +11,7 @@ sections:
         self:
           textDecoration: line-through
           textAlign: right
-    subtitle: Subtitle goes here
+    subtitle: envolving minds nurturing lifes
     text: |+
 
       It always seems impossible until it's done." Join  us with valorconMUN
