@@ -187,11 +187,15 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      *ValorCon\_MUN* is a premier Model United Nations (MUN) conference that
+      aims to bring together students and young professionals from around the
+      world to simulate the operations of the United Nations. It is designed to
+      foster diplomacy, leadership, and critical thinking through global
+      discussions on pressing issues such as climate change, international
+      security, human rights, and economic development.
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
