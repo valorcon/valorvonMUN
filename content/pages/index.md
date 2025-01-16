@@ -248,8 +248,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: >-
-        https://www.un.org/sites/un2.un.org/files/styles/large-article-image-style-16-9/public/2019/11/model_un_guide.jpg?c=cd5683096650446b56197d5f0ab429a4
+      url: 'https://www.youtube.com/watch?v=E67ln5yJtyE'
       autoplay: true
       loop: true
       muted: true
