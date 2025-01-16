@@ -167,7 +167,7 @@ sections:
         altText: Telus logo
         type: ImageBlock
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/IMG_9158.jpeg
         altText: Image alt text placeholder
         elementId: ''
         styles:
