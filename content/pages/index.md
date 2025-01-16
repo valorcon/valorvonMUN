@@ -260,7 +260,7 @@ sections:
             - pt-0
             - pb-0
             - pl-0
-            - pr-2
+            - pr-0
           borderColor: border-dark
           borderStyle: dotted
           borderWidth: 1
