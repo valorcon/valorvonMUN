@@ -10,6 +10,7 @@ sections:
       styles:
         self:
           textDecoration: line-through
+          textAlign: right
     subtitle: Subtitle goes here
     text: |+
 
