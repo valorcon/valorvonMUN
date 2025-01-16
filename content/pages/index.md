@@ -58,7 +58,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: Numbers Done
+        subtitle: 'Diverse Committees:'
         text: >
           Engage in debates in various UN committees such as the General
           Assembly (GA), Security Council (SC), Economic and Social Council
