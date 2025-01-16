@@ -164,6 +164,8 @@ sections:
         type: ImageBlock
       - altText: Contentful logo
         type: ImageBlock
+      - altText: Sanity logo
+        type: ImageBlock
       - type: ImageBlock
         url: /images/IMG_9158.jpeg
         altText: Image alt text placeholder
@@ -171,8 +173,6 @@ sections:
         styles:
           self:
             borderRadius: medium
-      - altText: Sanity logo
-        type: ImageBlock
       - altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
