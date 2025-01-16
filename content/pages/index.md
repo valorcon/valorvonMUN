@@ -7,6 +7,9 @@ sections:
       text: Unblock your team boost your time to production
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textDecoration: line-through
     subtitle: Subtitle goes here
     text: |+
 
