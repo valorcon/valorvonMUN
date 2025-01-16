@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: VALORCON_MUN!!!!!!
+      text: VALORCON_MUN!!
       color: text-dark
       type: TitleBlock
       styles:
