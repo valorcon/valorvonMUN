@@ -17,6 +17,7 @@ featuredImage:
         - pt-4
         - pb-4
         - pr-4
+        - pl-4
   type: ImageBlock
 bottomSections:
   - title: Divider
