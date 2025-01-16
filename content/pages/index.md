@@ -111,10 +111,9 @@ sections:
         type: FeaturedItem
       - title: ''
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Participate in pre-conference training sessions that will enhance your
+          skills and prepare you for a successful MUN experience.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
