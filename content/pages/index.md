@@ -286,9 +286,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: follow us on valorcon_mun
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      Get all the recent update on it!
     actions:
       - label: Get started
         url: /
