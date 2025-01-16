@@ -17,7 +17,7 @@ sections:
       It always seems impossible until it's done." Join  us with valorconMUN
 
     actions:
-      - label: Get started
+      - label: REGISTER NOWW
         altText: ''
         url: /
         showIcon: false
