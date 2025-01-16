@@ -282,7 +282,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Social Media Handle
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
