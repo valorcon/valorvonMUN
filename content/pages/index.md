@@ -110,7 +110,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: ''
-        subtitle: Faster
+        subtitle: 'Workshops & Training:'
         text: >
           Participate in pre-conference training sessions that will enhance your
           skills and prepare you for a successful MUN experience.
