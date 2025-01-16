@@ -239,7 +239,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: video credits-
+    subtitle: video credits-fnsamband
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
