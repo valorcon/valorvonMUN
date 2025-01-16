@@ -171,8 +171,7 @@ sections:
         styles:
           self:
             borderRadius: medium
-      - url: /images/IMG_9158.jpeg
-        altText: Contentful logo
+      - altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
