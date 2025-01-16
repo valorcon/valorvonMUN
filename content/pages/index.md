@@ -59,10 +59,10 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Engage in debates in various UN committees such as the General
+          Assembly (GA), Security Council (SC), Economic and Social Council
+          (ECOSOC), and specialized agencies.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
