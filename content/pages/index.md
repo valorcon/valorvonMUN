@@ -248,7 +248,8 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: >-
+        https://www.un.org/sites/un2.un.org/files/styles/large-article-image-style-16-9/public/2019/11/model_un_guide.jpg?c=cd5683096650446b56197d5f0ab429a4
       autoplay: true
       loop: true
       muted: true
